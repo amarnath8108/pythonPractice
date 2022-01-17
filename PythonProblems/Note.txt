@@ -1,0 +1,7 @@
+1)Assert : assert is used to evaluate the condition. if condition is false it raises the exception with given error message
+
+Eg: assert n>=0 ,'The number should be positive integer'
+
+If n is negative then it raises an exception with message - The number should be positive integer
+
+assert n>=0 -- allows only values greater or equal to '0'
